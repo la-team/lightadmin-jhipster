@@ -1,2 +1,1 @@
-lightadmin-jhipster
-===================
+LightAdmin and JHipster integration example
